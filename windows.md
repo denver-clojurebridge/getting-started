@@ -13,3 +13,6 @@ Welcome to your guide to getting clojure working on windows
 3. Create the LEIN_JAR environment variable and set it to the directory you unzipped leiningen to
 4. Download the [lein.bat](https://raw.githubusercontent.com/technomancy/leiningen/stable/bin/lein.bat) file to the same unzipped leiningen directory
 5. Leiningen should now be accessible via the command line, open a new command prompt and type 'lein --version' to verify
+
+## Install Nightcode
+You should now be able to follow along with the [nightcode](https://github.com/denver-clojurebridge/getting-started/blob/master/nightcode.md) tutorial and be able to start writing code!
