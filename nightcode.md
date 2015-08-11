@@ -45,6 +45,6 @@ Lastly, go back up to `core.clj` and change what the `-main` function is going t
 
 Try out some of the other buttons on your own and see what they do. "Stop" will stop the REPL you've created, and "Test" should show you something interesting.
 
-With that, you are ready to create new Clojure projects in Nightcode!  Good luck, and enjoy Clojuring!
+With that, you are ready to create new Clojure projects in Nightcode! Good luck, and enjoy Clojuring! If you like Nightcode, you may be interested in [Making Games at Runtime with Clojure](https://www.youtube.com/watch?v=0GzzFeS5cMc).
 
 [Nightcode]: https://sekao.net/nightcode/
