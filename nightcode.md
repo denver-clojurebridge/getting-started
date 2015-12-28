@@ -2,7 +2,7 @@
 
 While using Clojure everyday is a blast, getting started with Clojure isn't always. Emacs and Vim are good choices for Clojure editors, but they aren't for everybody and they can be complicated to set up.
 
-[Nightcode][] is an easy-to-use IDE for Clojure written by Zack Oakes. It bundles everything you need to use Clojure so you can get started quickly.
+[Nightcode][] is an easy-to-use IDE for Clojure written by Zach Oakes. It bundles everything you need to use Clojure so you can get started quickly.
 
 To use it, first go to the [Nightcode][] site and download the most current version. You will need Java installed: if you are using a Mac, you have it installed. If you are using Linux, you probably know how to install it, and if not, look at your distribution's documentation.
 
